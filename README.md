@@ -7,9 +7,8 @@ This project is a **Book Recommender System** built using machine learning algor
 - **User Interface**: A simple web-based interface to interact with the recommender system.
 - **Machine Learning Model**: Trains on book data to predict relevant book recommendations.
 
-## Setup Instructions
 
-### Requirements
+## Requirements
 - Python 3.x
 - Libraries: `pandas`, `scikit-learn`, `flask`, etc.
 
